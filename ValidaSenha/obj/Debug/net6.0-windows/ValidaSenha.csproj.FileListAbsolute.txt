@@ -1,0 +1,16 @@
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\bin\Debug\net6.0-windows\ValidaSenha.exe
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\bin\Debug\net6.0-windows\ValidaSenha.deps.json
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\bin\Debug\net6.0-windows\ValidaSenha.runtimeconfig.json
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\bin\Debug\net6.0-windows\ValidaSenha.dll
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\bin\Debug\net6.0-windows\ValidaSenha.pdb
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ValidaSenha.csproj.GenerateResource.cache
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ValidaSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ValidaSenha.AssemblyInfoInputs.cache
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ValidaSenha.AssemblyInfo.cs
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ValidaSenha.csproj.CoreCompileInputs.cache
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ValidaSenha.dll
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\refint\ValidaSenha.dll
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ValidaSenha.pdb
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ValidaSenha.genruntimeconfig.cache
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ref\ValidaSenha.dll
+C:\Users\cassi\source\repos\ValidaSenha\ValidaSenha\obj\Debug\net6.0-windows\ValidaSenha.Frm_ValidaSenha.resources
